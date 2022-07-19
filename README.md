@@ -3,8 +3,8 @@ Mods I made for myself for Solasta, although I'm probably done with the game tho
  
 ## Homebrew
 - **Remove 1 Spell Per Turn Restriction** - Normally you if you cast a non-cantrip spell you can't cast another non-cantrip that turn, this removes that restriction
-- **Alternate Crit Rule (1 dice set max)**
-- **Unlimited Interactions**
+- **Alternate Crit Rule (1 dice set max)** - This uses the crit homebrew where you max out the original dice and roll the new ones. So a 2d6 attack on a crit becomes 12 + 2d6 making all crits very powerful even on bad rolls.
+- **Unlimited Interactions** - Normally you get 1 interaction per turn (usually for switching weapons) but this allows unlimited so you can switch weapons freely
 
 ###### Homebrew - Flanking
 - **+2 rather than advantage** - Classic alternate to flanking advantage and gives +2 to hit instead
