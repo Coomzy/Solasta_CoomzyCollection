@@ -1,0 +1,11 @@
+{
+  "Id": "CoomzysCollection",
+  "DisplayName": "Coomzy's Collection",
+  "Author": "Coomzy",
+  "Version": "1.0.0.0",
+  "GameVersion": "1.3.57",
+  "ManagerVersion": "0.23.4",
+  "AssemblyName": "CoomzysCollection.dll",
+  "EntryMethod": "CoomzysCollection.Main.Load",
+  "HomePage": ""
+}
