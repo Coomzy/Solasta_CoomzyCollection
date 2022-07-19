@@ -1,7 +1,7 @@
 # Solasta Coomzy's Collection
 Mods I made for myself for Solasta, although I'm probably done with the game thought I'd share. Anyone is welcome to do anything they want with the code no permission/credit needed. I'd also say I never tested or really made anything for multiplayer although if I had to guess the only problematic things would be Auto Confirms, Skip Dialog, Time Speed.
 
-All settings are off by default so you can opt in to only what you want.
+All settings are off by default and are opt in.
 
 ![Flankingpng](https://user-images.githubusercontent.com/7538829/179759945-5ba5a3e9-5a11-4378-8ee5-4e73b395e5ca.png)
  
