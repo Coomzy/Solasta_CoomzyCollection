@@ -1,11 +1,13 @@
 # Solasta Coomzy's Collection
 Mods I made for myself for Solasta, although I'm probably done with the game thought I'd share. Anyone is welcome to do anything they want with the code no permission/credit needed. I'd also say I never tested or really made anything for multiplayer although if I had to guess the only problematic things would be Auto Confirms, Skip Dialog, Time Speed.
 
+All settings are off by default so you can opt in to only what you want.
+
 ![Flankingpng](https://user-images.githubusercontent.com/7538829/179759945-5ba5a3e9-5a11-4378-8ee5-4e73b395e5ca.png)
  
 ## Homebrew
-- **Remove 1 Spell Per Turn Restriction** - Normally you if you cast a non-cantrip spell you can't cast another non-cantrip that turn, this removes that restriction
 - **Alternate Crit Rule (1 dice set max)** - This uses the crit homebrew where you max out the original dice and roll the new ones. So a 2d6 attack on a crit becomes 12 + 2d6 making all crits very powerful even on bad rolls.
+- **Remove 1 Spell Per Turn Restriction** - Normally you if you cast a non-cantrip spell you can't cast another non-cantrip that turn, this removes that restriction
 - **Unlimited Interactions** - Normally you get 1 interaction per turn (usually for switching weapons) but this allows unlimited so you can switch weapons freely
 
 ###### Homebrew - Flanking
@@ -20,10 +22,8 @@ The game prompts you unnecessarily a lot (well I feel that way) so I made it so 
 
 ## Character Move Speed
 This changes characters move speed in/out of combat so people aren't so slow. Warning it does effect everyone so people around towns seems like they're panicking.
-- **Out of combat multiplier** / **In combat multiplier**
 
 ## Skip Dialog
-
 This just adds the Pause Menu "Skip" button to a keybind, 
 - **Use Harded Coded Mouse Buttons** - This is bound to Mouse4 (mouse thumb button 2) otherwise will use the **Keybind** option. I did this because I wanted it on mouse buttons but the keybind doesn't support that.
 
