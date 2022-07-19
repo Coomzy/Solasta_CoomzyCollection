@@ -1,5 +1,7 @@
 # Solasta Coomzy's Collection
 Mods I made for myself for Solasta, although I'm probably done with the game thought I'd share. Anyone is welcome to do anything they want with the code no permission/credit needed. I'd also say I never tested or really made anything for multiplayer although if I had to guess the only problematic things would be Auto Confirms, Skip Dialog, Time Speed.
+
+![Flankingpng](https://user-images.githubusercontent.com/7538829/179759945-5ba5a3e9-5a11-4378-8ee5-4e73b395e5ca.png)
  
 ## Homebrew
 - **Remove 1 Spell Per Turn Restriction** - Normally you if you cast a non-cantrip spell you can't cast another non-cantrip that turn, this removes that restriction
@@ -21,6 +23,7 @@ This changes characters move speed in/out of combat so people aren't so slow. Wa
 - **Out of combat multiplier** / **In combat multiplier**
 
 ## Skip Dialog
+
 This just adds the Pause Menu "Skip" button to a keybind, 
 - **Use Harded Coded Mouse Buttons** - This is bound to Mouse4 (mouse thumb button 2) otherwise will use the **Keybind** option. I did this because I wanted it on mouse buttons but the keybind doesn't support that.
 
