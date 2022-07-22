@@ -514,66 +514,6 @@ namespace CoomzysCollection
             }
             return Color.white;
         }
-
-        void PactTactics()
-        {
-            //int size = 1 + targetCharacter.SizeParameters.maxExtent.x;
-            //var flankingPos = currentTargetCharacter.LocationPosition + currentTargetCharacter.SizeParameters.maxExtent + (currentTargetCharacter.LocationPosition - playingCharacter.LocationPosition);
-
-            //RulesetActor.SizeParameters battleSizeParameters = character.BattleSizeParameters;
-            //int3 @int = battleSizeParameters.minExtent;
-            //int3 int2 = battleSizeParameters.maxExtent;
-            //int num = 1;
-            //@int.x -= num;
-            //@int.y -= num;
-            //@int.z -= num;
-            //int2.x += num;
-            //int2.y += num;
-            //int2.z += num;
-            //@int += character.LocationPosition;
-            //int2 += character.LocationPosition;
-            //BoxInt boxInt = new BoxInt(@int, int2);
-            //GridAccessor gridAccessor = GridAccessor.Default;
-            //var targetPos = targetCharacter.LocationPosition;
-            //var targetBoundingBox = targetCharacter.LocationBoundingBox;
-            ////targetBoundingBox.
-
-            //foreach (int3 position in boxInt.EnumerateAllPositionsWithin())
-            //{
-            //    List<GameLocationCharacter> list;
-            //    if (gridAccessor.Occupants_TryGet(position, out list))
-            //    {
-            //        foreach (GameLocationCharacter gameLocationCharacter in list)
-            //        {
-            //            if (gameLocationCharacter.RulesetCharacter == null ||
-            //                gameLocationCharacter == character &&
-            //                gameLocationCharacter == targetCharacter &&
-            //                !(gameLocationCharacter.RulesetCharacter is RulesetCharacterEffectProxy) &&
-            //                !gameLocationCharacter.RulesetCharacter.IsDeadOrDyingOrUnconscious &&
-            //                !gameLocationCharacter.RulesetCharacter.HasConditionOfType("ConditionIncapacitated"))
-
-            //            {
-            //                continue;
-            //            }
-
-            //            if (gameLocationCharacter.Side != RuleDefinitions.Side.Ally)
-            //            {
-            //                continue;
-            //            }
-
-            //            if (gameLocationCharacter.RulesetCharacter != null &&
-            //                gameLocationCharacter != character &&
-            //                !(gameLocationCharacter.RulesetCharacter is RulesetCharacterEffectProxy) &&
-            //                !gameLocationCharacter.RulesetCharacter.IsDeadOrDyingOrUnconscious &&
-            //                !gameLocationCharacter.RulesetCharacter.HasConditionOfType("ConditionIncapacitated"))
-
-            //            {
-            //                return true;
-            //            }
-            //        }
-            //    }
-            //}
-        }
     }
 }
 
